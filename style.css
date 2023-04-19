@@ -16,10 +16,9 @@ body {
     width: 32rem;
     height: 70rem;  
     text-align: center;
-    margin: auto;
+    margin: 2rem auto;
     font-family: 'Inter', sans-serif;
     border-radius: 1rem;
-    
 }
 
 /* Info */
