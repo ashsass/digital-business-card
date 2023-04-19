@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background: #23252C;
+}
+
+.container{
+    background: #1A1B21;
+    color: #F5F5F5;
+    width: 32rem;
+    height: 70rem;  
+    text-align: center;
+    margin: auto;
+    font-family: 'Inter', sans-serif;
+    border-radius: 1rem;
+    
+}
+
+/* Info */
+img {
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+h1{
+    font-size: 2.5rem;
+    color: #FFF;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 12.8px;
+    color: #F3BF99;
+    margin: .5rem 1rem 1rem;
+}
+
+a {
+    color: #F5F5F5;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Buttons */
+.header-buttons {
+    display: flex;
+    margin: 1.5rem 3.5rem 3.5rem;
+    justify-content: center;
+    gap: 2rem;
+    
+}
+
+button {
+    align-items: center;
+    width: 11.5rem;
+    height: 3.4rem;
+    border-radius: 0.6rem;
+    border: none;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: 0;
+}
+
+button > i {
+    margin-right: 1rem;
+}
+
+.button-linkedin {
+    background: #5093E2;
+    color: #FFF;
+}
+
+/* Section */
+section {
+    text-align: left;
+    width: 70%;
+    margin: auto;
+    line-height: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+section > h2 {
+    margin-bottom: .5rem;
+}
+
+section > p {
+    color: #DCDCDC;
+}
+
+/* Footer */
+
+footer {
+    background: #161619;
+    width: 317px;
+    height: 64px;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 7rem;
+}
+
+.footer-icons {
+    background: #161619;
+    color: #918E9B;
+    width: 2.5rem;
+    font-size: 2.5rem;
+}
