@@ -1,7 +1,7 @@
 # Digital Business Card Solo Project
 ## Result
 [Link](https://sassaman-business-card.netlify.app/)
-![Image](https://sassaman-business-card.netlify.app/)
+![Image](./images/business-card-screenshot.png)
 
 ## Tech Used
 - VSC
