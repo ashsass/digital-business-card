@@ -1,4 +1,13 @@
-# Digital Business Card Solo Projects
+# Digital Business Card Solo Project
+## Result
+[Link](https://sassaman-business-card.netlify.app/)
+![Image](https://sassaman-business-card.netlify.app/)
+
+## Tech Used
+- VSC
+- React
+- CSS
+- npm
 
 ## Design Spec
 ![Image](./images/figma-spec.png)
