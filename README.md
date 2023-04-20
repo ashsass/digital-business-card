@@ -1,6 +1,9 @@
-Digital Business Card Solo Projects
+# Digital Business Card Solo Projects
 
-Requirements
+## Design Spec
+![Image](./images/figma-spec.png)
+
+## Requirements
 - Build from scratch
 - Fill in own information
 - Separate components for:
@@ -27,4 +30,7 @@ Requirements
             - instagram
             - github
     
-Figma file: https://www.figma.com/file/qq9sIcgJ9Q6aExgzxRvBjU/Digital-Business-Card-(Copy)?node-id=0-1&t=Gvi7EU6XQsPOZyTJ-0# digital-business-card
+## [Figma file](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-1&t=y9O7Qg3Q7vN5mxPL-0 )
+
+
+
